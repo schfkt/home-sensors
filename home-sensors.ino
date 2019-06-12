@@ -1,6 +1,3 @@
-#include <Wire.h>
-#include <SPI.h>
-
 // BME280 Temperature, Humidity, and Pressure sensor
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
